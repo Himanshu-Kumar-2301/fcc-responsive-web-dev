@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #f4f4f4;
+  padding: 50px;
+  min-height: 100vh;
+}
+
+.color-grid {
+  display: flex;
+  flex-wrap: wrap;
+  grid-gap: 20px;
+}
+
+.color-box {
+  width: 100px;
+  height: 100px;
+  background: red;
+}
+
+.color1 {
+  background: #ff0c40;
+}
+.color2 {
+  background: rgb(20, 80, 50);
+}
+.color3 {
+  background: burlywood;
+}
+.color4 {
+  background: hsl(190, 70%, 80%);
+}
+.color5 {
+  background: navy;
+}
