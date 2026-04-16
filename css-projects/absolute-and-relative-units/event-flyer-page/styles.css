@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 50px 0;
+  margin: 0 auto;
+  font-family: sans-serif;
+  width: 80vw;
+  background: rgb(200, 200, 200);
+  text-align: center;
+  min-height: calc(100vh - 100px);
+}
+
+.event-title {
+  font-size: 2.6em;
+  margin: 20px;
+}
+
+.event-desc {
+  font-size: 1.1em;
+  margin-bottom: 30px;
+}
+
+hr {
+  width: 95%;
+  height: 4px;
+  border: 0;
+  background-color: black;
+  margin-bottom: 50px;
+}
+
+main {
+  display: flex;
+}
+
+section {
+  width: 50%;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+li {
+  list-style: none;
+}
