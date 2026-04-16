@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Checkout Page</title>
+  </head>
+
+  <body>
+    <h1>Checkout</h1>
+    <section>
+      <h2>Your Cart</h2>
+      <figure>
+        <img
+          src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg"
+          alt="jumbled rubic cube"
+        />
+      </figure>
+    </section>
+    <section>
+      <h2>Payment Information</h2>
+      <form>
+        <label for="card-name"
+          >Card Name:<span aria-hidden="true">*</span>
+        </label>
+        <input
+          type="text"
+          id="card-name"
+          name="card-name"
+          required
+          aria-required="true"
+        /><br />
+        <label for="card-number"
+          >Card Number:<span aria-hidden="true">*</span>
+        </label>
+        <input
+          type="text"
+          id="card-number"
+          name="card-number"
+          required
+          aria-required="true"
+          aria-describedby="card-number-help"
+        />
+        <p id="card-number-help">Card number should have 16 digits</p>
+        <label for="card-cvv">CVV:<span aria-hidden="true">*</span> </label>
+        <input
+          type="number"
+          id="card-cvv"
+          name="card-cvv"
+          required
+          aria-required="true"
+        /><br />
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+  </body>
+</html>
