@@ -4,6 +4,11 @@ const htmlProjects = [
     description: "Description...",
     src: "./html-projects/basic-html/curriculum-outline.html",
   },
+  {
+    name: "Cat Photo App",
+    description: "Description...",
+    src: "./html-projects/basic-html/cat-photo-app.html",
+  },
 ];
 const cssProjects = [];
 const showcaseProjects = [];
