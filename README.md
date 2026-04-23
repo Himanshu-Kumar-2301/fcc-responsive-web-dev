@@ -12,7 +12,6 @@ It showcases my progress in **HTML, CSS, accessibility, responsive layouts, and 
 - **Basic HTML**: Cat Photo App, Recipe Page, Bookstore Page, Travel Agency Page, Music/Video Players, Heart Icon, Video Compilation Page
 - **Semantic HTML**: List of Major Web Browsers, Quency's Job Tips Page, Cat Blog Page, Event Hub
 - **Forms & Tables**: Hotel Feedback Form, Final Exams Table, Book Catalog Table
-- **Survey Form Project**
 - **Accessibility**: Tech Conference Schedule Table, Accessible Audio Controller, Checkout Page, Movie Review Page, Multimedia Player
 
 ### CSS
@@ -29,7 +28,6 @@ It showcases my progress in **HTML, CSS, accessibility, responsive layouts, and 
 - **Selectors**: Balance Sheet
 - **Responsive Design**: Piano
 - **Grid**: Magazine, Newspaper Layout
-- **Projects**: Technical Documentation Page, Product Landing Page, Personal Portfolio
 - **Animations**: Ferris Wheel, Moon Orbit, Flappy Penguin
 
 ---
@@ -38,10 +36,7 @@ It showcases my progress in **HTML, CSS, accessibility, responsive layouts, and 
   
 Examples:
 
-- [Cat Photo App](https://himanshu-kumar-2301.github.io/fcc-responsive-web-dev/html/basic-html/cat-photo-app.html)
-- [Tribute Page](https://himanshu-kumar-2301.github.io/fcc-responsive-web-dev/css/projects/tribute-page/)
-- [Product Landing Page](https://himanshu-kumar-2301.github.io/fcc-responsive-web-dev/css/projects/product-landing-page/)
-- [Personal Portfolio](https://himanshu-kumar-2301.github.io/fcc-responsive-web-dev/css/projects/personal-portfolio/)
+- [Cat Photo App](https://himanshu-kumar-2301.github.io/fcc-responsive-web-dev/html-projects/basic-html/cat-photo-app.html)
 
 ---
 
@@ -49,6 +44,7 @@ Examples:
 
 - HTML5
 - CSS3 (Flexbox, Grid, Animations)
+- JavaScript
 - Accessibility best practices
 
 ---
